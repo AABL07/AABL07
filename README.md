@@ -1,4 +1,5 @@
 Olá! Eu sou Adriano Lucio (AABL07) 👋
+
 Desenvolvedor Full Stack em formação com mais de 4 anos de experiência em suporte técnico e infraestrutura de TI. Atualmente cursando Análise e Desenvolvimento de Sistemas na UNINTER e focado em construir carreira como desenvolvedor Full Stack.
 
 🏢 Atuação Profissional
