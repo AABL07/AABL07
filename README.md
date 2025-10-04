@@ -34,10 +34,12 @@ HTML and CSS: Classes, positioning and Flexbox
 Computational Thinking: Fundamentals of Computing and Programming Logic
 
 📊 GitHub Stats
-AABL07's GitHub stats
+<img width="467" height="195" alt="image" src="https://github.com/user-attachments/assets/83f26f3c-e7f0-4893-a898-a1d43709ec29" />
+
 
 🧠 Linguagens Mais Usadas
-Top Langs
+<img width="300" height="140" alt="image" src="https://github.com/user-attachments/assets/cd7c8cc6-8e05-4308-a940-7ac66d3b225b" />
+
 
 📫 Entre em contato
 📧 Email: adrianojunior577@gmail.com
