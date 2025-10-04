@@ -1,4 +1,4 @@
-Olá! Eu sou Adriano Lucio (AABL07) 👋
+Olá! Eu sou Adriano Antunes Bueno Lucio (AABL07) 👋
 
 Desenvolvedor Full Stack em formação com mais de 4 anos de experiência em suporte técnico e infraestrutura de TI. 
 
