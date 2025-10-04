@@ -1,8 +1,11 @@
 Olá! Eu sou Adriano Lucio (AABL07) 👋
 
-Desenvolvedor Full Stack em formação com mais de 4 anos de experiência em suporte técnico e infraestrutura de TI. Atualmente cursando Análise e Desenvolvimento de Sistemas na UNINTER e focado em construir carreira como desenvolvedor Full Stack.
+Desenvolvedor Full Stack em formação com mais de 4 anos de experiência em suporte técnico e infraestrutura de TI. 
+
+Atualmente cursando Análise e Desenvolvimento de Sistemas na UNINTER e focado em construir carreira como desenvolvedor Full Stack.
 
 🏢 Atuação Profissional
+
 Helpdesk de TI na Voxcity Tecnologia - Especialista em telefonia VoIP, atendimento N1/N2 e resolução de problemas complexos de infraestrutura.
 
 Ex-Assistente de Suporte de TI no Fort Atacadista - Gestão de ativos de TI e monitoramento de data center.
@@ -23,9 +26,12 @@ Infraestrutura: Telefonia VoIP, Redes, Windows 10/11, Suporte Técnico
 Soft Skills: Comunicação, Trabalho em equipe, Adaptabilidade
 
 🚀 O que me motiva
-Estou mergulhado no universo do desenvolvimento Full Stack, explorando como criar soluções eficientes e de qualidade. Minha jornada combina experiência prática em infraestrutura de TI com o aprendizado contínuo de tecnologias modernas de desenvolvimento web. Como DIO Campus Expert Ambassador, busco sempre compartilhar conhecimento e evoluir junto com a comunidade tech.
+Estou mergulhado no universo do desenvolvimento Full Stack, explorando como criar soluções eficientes e de qualidade. Minha jornada combina experiência prática em infraestrutura de TI com o aprendizado contínuo de tecnologias modernas de desenvolvimento web. 
+
+Como DIO Campus Expert Ambassador, busco sempre compartilhar conhecimento e evoluir junto com a comunidade tech.
 
 🎯 Certificações
+
 HTML and CSS: development environments, file structure and tags
 
 From scratch: beginner in programming
