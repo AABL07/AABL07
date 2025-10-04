@@ -47,6 +47,7 @@ Computational Thinking: Fundamentals of Computing and Programming Logic
 
 
 📫 Entre em contato
+
 📧 Email: adrianojunior577@gmail.com
 
 💼 LinkedIn: Adriano Lucio
