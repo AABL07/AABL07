@@ -13,6 +13,7 @@ Ex-Assistente de Suporte de TI no Fort Atacadista - Gestão de ativos de TI e mo
 Ex-Jovem Aprendiz na Unimed Criciúma - Instalação, configuração e manutenção de equipamentos e redes.
 
 💻 Especialidades
+
 Linguagens: JavaScript, HTML5, CSS3, SQL
 
 Frontend: React.js, Vue.js, Materialize CSS
@@ -26,6 +27,7 @@ Infraestrutura: Telefonia VoIP, Redes, Windows 10/11, Suporte Técnico
 Soft Skills: Comunicação, Trabalho em equipe, Adaptabilidade
 
 🚀 O que me motiva
+
 Estou mergulhado no universo do desenvolvimento Full Stack, explorando como criar soluções eficientes e de qualidade. Minha jornada combina experiência prática em infraestrutura de TI com o aprendizado contínuo de tecnologias modernas de desenvolvimento web. 
 
 Como DIO Campus Expert Ambassador, busco sempre compartilhar conhecimento e evoluir junto com a comunidade tech.
