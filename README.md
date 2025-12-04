@@ -6,7 +6,7 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na UNINTER e focado e
 
 🏢 Atuação Profissional
 
-Analista de Suporte de TI na Voxcity Tecnologia - Especialista em telefonia VoIP, atendimento N1/N2 e resolução de problemas complexos de infraestrutura.
+Analista de Suporte de TI na Voxcity Tecnologia - Especialista em telefonia VoIP, atendimento N1/N2/N3 e resolução de problemas complexos de infraestrutura.
 
 Ex-Auxiliar de Suporte de TI no Fort Atacadista - Gestão de ativos de TI e monitoramento de data center.
 
@@ -16,7 +16,7 @@ Ex-Jovem Aprendiz de Assistente de Informática na Unimed Criciúma - Instalaç�
 
 Linguagens: JavaScript, HTML5, CSS3, SQL
 
-Frontend: React.js, Vue.js, Materialize CSS
+Frontend: React.js, Vue.js
 
 Backend: Node.js
 
