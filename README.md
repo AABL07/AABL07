@@ -2,15 +2,15 @@ Olá! Eu sou Adriano Antunes Bueno Lucio (AABL07) 👋
 
 Desenvolvedor Full Stack em formação com mais de 4 anos de experiência em suporte técnico e infraestrutura de TI. 
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas na UNINTER e focado em construir carreira como desenvolvedor Full Stack.
+Atualmente cursando Análise e Desenvolvimento de Sistemas na UNINTER e focado em construir carreira como Desenvolvedor Full Stack.
 
 🏢 Atuação Profissional
 
-Helpdesk de TI na Voxcity Tecnologia - Especialista em telefonia VoIP, atendimento N1/N2 e resolução de problemas complexos de infraestrutura.
+Analista de Suporte de TI na Voxcity Tecnologia - Especialista em telefonia VoIP, atendimento N1/N2 e resolução de problemas complexos de infraestrutura.
 
-Ex-Assistente de Suporte de TI no Fort Atacadista - Gestão de ativos de TI e monitoramento de data center.
+Ex-Auxiliar de Suporte de TI no Fort Atacadista - Gestão de ativos de TI e monitoramento de data center.
 
-Ex-Jovem Aprendiz na Unimed Criciúma - Instalação, configuração e manutenção de equipamentos e redes.
+Ex-Jovem Aprendiz de Assistente de Informática na Unimed Criciúma - Instalação, configuração e manutenção de equipamentos e redes.
 
 💻 Especialidades
 
