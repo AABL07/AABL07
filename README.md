@@ -1,69 +1,97 @@
-# Bem Vindo(a)!
-Olá! Eu sou Adriano Antunes Bueno Lucio (AABL07) 👋
+# Olá, eu sou Adriano Antunes Bueno Lucio 👋
 
-Desenvolvedor Full Stack em formação com mais de 5 anos de experiência em suporte técnico e infraestrutura de TI. 
+Desenvolvedor Full Stack em formação, estudante de Análise e Desenvolvimento de Sistemas na UNINTER, com experiência em suporte técnico, infraestrutura de TI e foco na construção de aplicações modernas e funcionais.
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas na UNINTER e focado em construir carreira como Desenvolvedor Full Stack.
+## Sobre mim
 
-# Atuação Profissional 🏢 
+Atualmente estou construindo minha carreira como desenvolvedor Full Stack, unindo minha base sólida em suporte e infraestrutura com o aprendizado contínuo em desenvolvimento web.
 
-Analista de Suporte de TI na Voxcity Tecnologia - Especialista em telefonia VoIP, atendimento N1/N2/N3 e resolução de problemas complexos de infraestrutura.
+Tenho experiência com atendimento técnico, resolução de incidentes, redes, telefonia VoIP e ambientes corporativos, o que fortaleceu minha visão prática sobre tecnologia, organização e solução de problemas.
 
-Ex-Auxiliar de Suporte de TI no Fort Atacadista - Gestão de ativos de TI e monitoramento de data center.
+Também participo ativamente da comunidade tech e busco evoluir constantemente por meio de estudos, projetos e troca de conhecimento.
 
-Ex-Jovem Aprendiz de Assistente de Informática na Unimed Criciúma - Instalação, configuração e manutenção de equipamentos e redes.
+## Atuação profissional
 
-# Especialidades 💻 
+- **Assistente de Suporte de T.I** na NeoCode Software.
+  Suporte a clientes do SaaS via WhatsApp, tickets em múltiplos sistemas como: Windows, Linux e Mac e produção, atualização e revisão de base de conhecimento e manuais do SaaS.
 
- **Linguagens:** JavaScript, HTML5, CSS3, SQL
+- **Analista de Suporte de TI** na Voxcity Tecnologia  
+  Atuação com telefonia VoIP, suporte N1/N2/N3 e resolução de problemas de infraestrutura.
 
-**Frontend:** React.js, Vue.js
+- **Auxiliar de Suporte de TI** no Fort Atacadista  
+  Experiência com gestão de ativos de TI e monitoramento de data center.
 
-**Backend:** Node.js, Java, Python
+- **Jovem Aprendiz de Assistente de Informática** na Unimed Criciúma  
+  Instalação, configuração e manutenção de equipamentos e redes.
 
-**Ferramentas:** Git, GitHub, VS Code
+## Tecnologias e ferramentas
 
-**Infraestrutura:** Telefonia VoIP, Redes, Windows 10/11, Suporte Técnico
+### Linguagens
+- JavaScript
+- HTML5
+- CSS3
+- SQL
+- Java
+- Python
 
-**Soft Skills:** Comunicação, Trabalho em equipe, Adaptabilidade
+### Front-end
+- React.js
+- Vue.js
+- Angular.js
 
-# O que me motiva? 🚀 
+### Back-end
+- Node.js
+- Python
+- Java
 
-Estou mergulhado no universo do desenvolvimento Full Stack, explorando como criar soluções eficientes e de qualidade. Minha jornada combina experiência prática em infraestrutura de TI com o aprendizado contínuo de tecnologias modernas de desenvolvimento web. 
+### Ferramentas
+- Git
+- GitHub
+- VS Code
 
-Como DIO Campus Expert Ambassador, busco sempre compartilhar conhecimento e evoluir junto com a comunidade tech.
+### Infraestrutura
+- Telefonia VoIP
+- Hardware
+- Redes
+- Windows 7/8/10/11
+- Linux
+- Mac
+- Suporte técnico
 
-# Certificações 🎯
+## O que me motiva
 
-**HTML and CSS:** development environments, file structure and tags
+Sou movido pelo aprendizado contínuo e pelo desafio de transformar conhecimento em soluções úteis.
 
-**From scratch:** beginner in programming
+Minha trajetória em infraestrutura me trouxe uma base prática importante, e hoje aplico essa experiência na transição para o desenvolvimento Full Stack, buscando criar aplicações com qualidade, organização e propósito.
 
-**HTML and CSS:** Classes, positioning and Flexbox
+## Certificações
 
-**Computational Thinking:** Fundamentals of Computing and Programming Logic
+- HTML and CSS: development environments, file structure and tags
+- From scratch: beginner in programming
+- HTML and CSS: Classes, positioning and Flexbox
+- Computational Thinking: Fundamentals of Computing and Programming Logic
 
-# GitHub Stats 📊 
+## Projetos em destaque
 
+### Sistema de Pontuação Cosplay
+Projeto desenvolvido com foco em cálculo de pontuação, aplicando lógica de programação e estruturação de solução prática.
 
-<img width="467" height="195" alt="image" src="https://github.com/user-attachments/assets/83f26f3c-e7f0-4893-a898-a1d43709ec29" />
+### Projetos de desenvolvimento web
+Repositórios voltados para prática e evolução em HTML, CSS, JavaScript, React, Vue e Node.js.
 
+### Estudos e desafios
+Espaço dedicado a exercícios, testes e projetos de aprendizado contínuo.
 
+## GitHub Stats
 
-# Linguagens Mais Usadas 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AABL07&show_icons=true&theme=github_dark&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AABL07&layout=compact&theme=github_dark&locale=pt-br" />
+</p>
 
+## Contato
 
-<img width="300" height="140" alt="image" src="https://github.com/user-attachments/assets/cd7c8cc6-8e05-4308-a940-7ac66d3b225b" />
-
-
-# Entre em contato 📫 
-
-📧 __Email__: adrianojunior577@gmail.com
-
-💼 __LinkedIn__: [www.linkedin.com/in/adriano-lucio-686256235]
-
-🐙 __GitHub__: [https://github.com/AABL07]
-
-📱 __Telefone__: (48) 99118-7247
-
-📍 __Localização__: Criciúma, Santa Catarina, Brasil
+- **Email:** adrianojunior577@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/adriano-lucio-686256235
+- **GitHub:** https://github.com/AABL07
+- **Localização:** Criciúma, Santa Catarina, Brasil
